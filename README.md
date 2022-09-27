@@ -25,3 +25,9 @@
  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=tafsir1729&theme=light&background=FD2D2D00&hide_border=true&currStreakNum=DD0000&sideLabels=DD2727&sideNums=1CDDAD" alt="tafsir1729"/>
 </h3>
 <img src="https://activity-graph.herokuapp.com/graph?username=tafsir1729&bg_color=00000&hide_border=true" width="100%"/>
+
+<b>&#128200; Competitive Programming</b>
+
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/tafsir1729?theme=light&font=Karma&ext=contest" />
+</p>
