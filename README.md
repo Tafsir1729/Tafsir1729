@@ -35,6 +35,7 @@
   - **🗂 CI/CD:** • [Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/)
   
 - **🏗️ Code editors:**
+
 <a href="https://visualstudio.microsoft.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=25></a> <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a>
 
 <!--Github Stats-->
@@ -48,7 +49,7 @@
 #### What companies have I worked for?
 <p left="center">
   <a href="https://www.vivasoftltd.com/">
-    <img src="https://www.vivasoftltd.com/wp-content/uploads/2022/09/Logo-5.svg" height=50>
+    <img src="https://www.vivasoftltd.com/wp-content/uploads/2022/09/Logo-5.svg" width="200" height=50>
     </a> 
   <a href="https://implevista.com/">
     <img src="https://implevista.com/_next/image?url=%2Flogo.png&w=256&q=75" height=50>
@@ -63,4 +64,4 @@
   - 😅 I just can't **resist the urge** to **explore** any new **stack/framework** released in the **Javascript ** ecosystem.
 
 #### What am I building for fun?
-- 🥰 **[CMS with microservice architecture](https://github.com/Tafsir1729/cms-api)** as pet projects.
+- 🥰 **[CMS with microservice architecture](https://github.com/Tafsir1729/cms-api)** as pet project.
