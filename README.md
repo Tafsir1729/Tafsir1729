@@ -35,7 +35,6 @@
   - **🗂 CI/CD:** • [Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/)
   
 - **🏗️ Code editors:**
-
 <a href="https://visualstudio.microsoft.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=25></a> <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a>
 
 <!--Github Stats-->
