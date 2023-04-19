@@ -63,4 +63,4 @@
   - 😅 I just can't **resist the urge** to **explore** any new **stack/framework** released in the **Javascript ** ecosystem.
 
 #### What am I building for fun?
-- 🥰 **[CMS with microservice architecture](https://github.com/Tafsir1729/cms-api)(https://github.com/Tafsir1729/cms-client)(https://github.com/Tafsir1729/cms-admin)(https://github.com/Tafsir1729/cms-admin-mobile-app)** as pet projects.
+- 🥰 **[CMS with microservice architecture](https://github.com/Tafsir1729/cms-api)** as pet projects.
