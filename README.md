@@ -1,33 +1,66 @@
-<h1 align="center">Hi 👋, I'm Tafsir</h1>
-<h3 align="center">A software engineer from Bangladesh</h3>
+### Hi👋, I'm Tafsir
 
-- 🔭 I’m currently working at [Vivasoft](https://www.vivasoftltd.com/)
+#### Who I am?
+- A software engineer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
+- Have 2+ years of hands-on experience in **software development.**
+- Have built **web** and **native** apps targeting **cross-platform** ecosystems in **microservices** architectures.
 
-- 📫 How to reach me **tafsir9143@gmail.com**
+#### What I'm doing?
+- 🏢 Working at **[Vivasoft Limited](https://www.vivasoftltd.com/)** as a **Software Engineer - II**.
+- 👨‍💻 Developing solutions using `ASP.NET Core` `ASP.NET MVC` `C#` `SQL` `Vue.js`.
+- 🌍 Mostly active on <a href="https://www.linkedin.com/in/tafsir-ahamed/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> and <a href="https://stackoverflow.com/users/8661476/tafsir-ahamed"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" height=20></a>.
+- 📚 Currently learning about **clean architecture**, **microservice architecture**, **design patterns** etc.
+- 👯 Looking to collaborate on **.NET, node.js projects**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tafsir-ahamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tafsir-ahamed" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/8661476" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8661476" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tafsir1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tafsir1729" height="30" width="40" /></a>
-</p>
+#### What my skill set looks like?
+- 🖥 **Front-end:** 
+  - **📜 Languages:** • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS` • `👨‍🔧 JavaScript` • `👨‍🏭 TypeScript`
+  - **🔬 Frameworks:** 
+    - **🌐 Web:** • [React.js](https://react.dev/) • [Next.js](https://nextjs.org/) • [Angular](https://angular.io/) • [ASP.NET MVC](https://dotnet.microsoft.com/en-us/apps/aspnet/mvc) • [Vue.js](https://vuejs.org/)
+    - **📱 Mobile:** • [React Native](https://reactnative.dev/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-<b>⚡ Github Stats</b>
+- 🗄️ **Back-end:**
+  - **📜 Languages:** • `🧙🏻‍♂️ C#` • `👨‍🔧 JavaScript`
+  - **🔭 Frameworks:** • [Node.js](https://nodejs.org/en) • [ASP.NET Web API](https://dotnet.microsoft.com/en-us/apps/aspnet/apis)
+  - **💾 Databases:** • [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2019) • [MongoDB](https://www.mongodb.com/) • [MySQL](https://www.mysql.com/)
 
+- 🌐 **Serverless Platforms:**
+  - • [SharePoint](https://www.microsoft.com/en-ww/microsoft-365/sharepoint/collaboration?rtc=1)
+  - • [Microsoft Dynamics 365](https://dynamics.microsoft.com/)
+  - • [Power Apps](https://powerapps.microsoft.com/)
+
+- 🎡 **Software development ecosystem:**
+  - **📁 Version Controlling Systems:** • [Git](https://git-scm.com/) • [Azure DevOps Server](https://azure.microsoft.com/en-us/services/devops/server/)
+  - **🗃 Project management:** • [Azure Boards](https://azure.microsoft.com/en-us/services/devops/boards/)
+  - **🗂 CI/CD:** • [Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/)
+  
+- **🏗️ Code editors:**
+<a href="https://visualstudio.microsoft.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=25></a> <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a>
+
+<!--Github Stats-->
+#### What my GitHub Stats look like?
 <p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tafsir1729&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tafsir1729&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tafsir1729&show_icons=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tafsir1729&show_icons=true&layout=compact&langs_count=10"/>
+<img height="180em" src="https://github-profile-trophy.vercel.app/?username=Tafsir1729&count_private=true&show_icons=true&theme=cobalt" align="center"/>
 </p>
 
-<h3 align="center">
- <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=tafsir1729&theme=light&background=FD2D2D00&hide_border=true&currStreakNum=DD0000&sideLabels=DD2727&sideNums=1CDDAD" alt="tafsir1729"/>
-</h3>
-<img src="https://activity-graph.herokuapp.com/graph?username=tafsir1729&bg_color=00000&hide_border=true" width="100%"/>
-
-<b>&#128200; Competitive Programming</b>
-
-<p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/tafsir1729?theme=light&font=Karma&ext=contest" />
+#### What companies have I worked for?
+<p left="center">
+  <a href="https://www.vivasoftltd.com/">
+    <img src="https://www.vivasoftltd.com/wp-content/uploads/2022/09/Logo-5.svg" height=50>
+    </a> 
+  <a href="https://implevista.com/">
+    <img src="https://implevista.com/_next/image?url=%2Flogo.png&w=256&q=75" height=50>
+  </a>
 </p>
+
+#### What's interesting about me?  
+  - 😎 I am an **ambivert** and **detail oriented** person.
+  - 🧐 I love to be very **precise** and **thorough**.
+  - ✍️ I always aim for **perfection** but end up being **excellent**.
+  - ⏱️ I'm a **workaholic**.
+  - 😅 I just can't **resist the urge** to **explore** any new **stack/framework** released in the **Javascript ** ecosystem.
+
+#### What am I building for fun?
+- 🥰 **[CMS with microservice architecture](https://github.com/Tafsir1729/cms-api)(https://github.com/Tafsir1729/cms-client)(https://github.com/Tafsir1729/cms-admin)(https://github.com/Tafsir1729/cms-admin-mobile-app)** as pet projects.
