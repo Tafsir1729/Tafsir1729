@@ -12,6 +12,7 @@
 - 📚 Currently learning about **clean architecture**, **microservice architecture**, **design patterns** etc.
 - 👯 Looking to collaborate on **.NET, node.js projects**.
 
+
 #### What my skill set looks like?
 - 🖥 **Front-end:** 
   - **📜 Languages:** • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS` • `👨‍🔧 JavaScript` • `👨‍🏭 TypeScript`
@@ -37,6 +38,7 @@
 - **🏗️ Code editors:**
 <a href="https://visualstudio.microsoft.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=25></a> <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a>
 
+
 <!--Github Stats-->
 #### How my GitHub Stats look like?
 <p float="left">
@@ -45,6 +47,8 @@
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Tafsir1729&theme=light&background=FD2D2D00&hide_border=true&currStreakNum=DD0000&sideLabels=DD2727&sideNums=1CDDAD" alt="Tafsir1729"/>
 </p>
 
+
+<!--Github Stats-->
 #### What companies have I worked for?
 <p left="center">
   <a href="https://www.vivasoftltd.com/">
@@ -55,12 +59,14 @@
   </a>
 </p>
 
+
 #### What's interesting about me?  
   - 😎 I am an **ambivert** and **detail oriented** person.
   - 🧐 I love to be very **precise** and **thorough**.
   - ✍️ I always aim for **perfection** but end up being **excellent**.
   - ⏱️ I'm a **workaholic**.
   - 😅 I just can't **resist the urge** to **explore** any new **stack/framework** released in the **Javascript** ecosystem.
+
 
 #### What am I building for fun?
 - 🥰 **[Content Management System with microservice architecture](https://github.com/Tafsir1729/cms-api)** as pet project.
