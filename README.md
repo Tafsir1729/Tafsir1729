@@ -11,8 +11,8 @@
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/tafsir-ahamed/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> and <a href="https://stackoverflow.com/users/8661476/tafsir-ahamed"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" height=20></a>.
 - 📚 Currently learning about **clean architecture**, **microservice architecture**, **design patterns** etc.
 - 👯 Looking to collaborate on **.NET, node.js projects**.
-
-
+</br>
+</br>
 #### What my skill set looks like?
 - 🖥 **Front-end:** 
   - **📜 Languages:** • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS` • `👨‍🔧 JavaScript` • `👨‍🏭 TypeScript`
