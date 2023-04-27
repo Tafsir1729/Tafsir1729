@@ -38,11 +38,11 @@
 <a href="https://visualstudio.microsoft.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=25></a> <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a>
 
 <!--Github Stats-->
-#### What my GitHub Stats look like?
+#### How my GitHub Stats look like?
 <p float="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tafsir1729&show_icons=true" /> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tafsir1729&show_icons=true&layout=compact&langs_count=10"/>
-<img height="180em" src="https://github-profile-trophy.vercel.app/?username=Tafsir1729&count_private=true&show_icons=true&theme=cobalt" align="center"/>
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Tafsir1729&theme=light&background=FD2D2D00&hide_border=true&currStreakNum=DD0000&sideLabels=DD2727&sideNums=1CDDAD" alt="Tafsir1729"/>
 </p>
 
 #### What companies have I worked for?
