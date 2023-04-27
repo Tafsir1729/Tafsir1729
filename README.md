@@ -42,7 +42,9 @@
 <p float="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tafsir1729&show_icons=true" /> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tafsir1729&show_icons=true&layout=compact&langs_count=10"/>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Tafsir1729&theme=light&background=FD2D2D00&hide_border=true&currStreakNum=DD0000&sideLabels=DD2727&sideNums=1CDDAD" alt="Tafsir1729"/>
+<h3 align="center">
+        <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Tafsir1729&theme=light&background=FD2D2D00&hide_border=true&currStreakNum=DD0000&sideLabels=DD2727&sideNums=1CDDAD" alt="Tafsir1729"/>
+       </h3>
 </p>
 
 #### What companies have I worked for?
