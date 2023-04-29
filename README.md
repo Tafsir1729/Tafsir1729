@@ -23,7 +23,7 @@
 - 🗄️ **Back-end:**
   - **📜 Languages:** • `🧙🏻‍♂️ C#` • `👨‍🔧 JavaScript`
   - **🔭 Frameworks:** • [Node.js](https://nodejs.org/en) • [ASP.NET Web API](https://dotnet.microsoft.com/en-us/apps/aspnet/apis)
-  - **💾 Databases:** • [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2019) • [MongoDB](https://www.mongodb.com/) • [MySQL](https://www.mysql.com/)
+  - **💾 Databases:** • [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2019) • [MongoDB](https://www.mongodb.com/)
 
 - 🌐 **Serverless Platforms:**
   - • [SharePoint](https://www.microsoft.com/en-ww/microsoft-365/sharepoint/collaboration?rtc=1)
